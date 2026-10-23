@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently finishing my enigeer's degree in Computer Science<br>I’m currently learning more about AI and data.
+Future Computer Science Engineer<br>I’m currently learning more about AI and data.
 
 
 ## 🌐 Socials:
